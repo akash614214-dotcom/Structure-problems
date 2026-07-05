@@ -3,7 +3,7 @@
 
 A simple Student Management System developed in C that allows users to manage student records efficiently through a menu-driven interface.
 
-Features
+# Features
 
 •⁠  ⁠Add new student records
 •⁠  ⁠Display all students
@@ -13,7 +13,7 @@ Features
 •⁠  ⁠Sort students by marks
 •⁠  ⁠Simple and user-friendly menu interface
 
-Technologies Used
+# Technologies Used
 
 •⁠  ⁠C Programming Language
 •⁠  ⁠Standard C Library
@@ -21,7 +21,7 @@ Technologies Used
 
 
 
-Future Improvements
+# Future Improvements
 
 •⁠  ⁠File handling for permanent data storage
 •⁠  ⁠Update student records
